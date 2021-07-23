@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GithubStat" src="https://github-readme-stats.vercel.app/api?username=iamfirmansyah&show_icons=true&theme=radical" />
+  <img align="left" alt="GithubStat" src="https://github-readme-stats.vercel.app/api?username=iamfirmansyah&show_icons=true&theme=buefy" />
 
 </details>
 
