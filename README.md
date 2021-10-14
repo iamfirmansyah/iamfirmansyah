@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Writer!!
 - 🤪 I am very open to freelance
-- 🔭I've been working on an app like Halodoc🤣
+- 🔭I'm working at YesDok as a Backend Developer
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Work harder to become a crazy rich man
