@@ -4,7 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imfireman_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imfireman_)
 
 ## I'm a Developer, and Writer!!
-- 🤪 I am very open to freelance
 - 🔭I'm working at YesDok as a Backend Developer
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
